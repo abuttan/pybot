@@ -1,0 +1,5 @@
+---------------
+applications:
+  -name: pybot
+  random-route: True
+  memory: 128M
